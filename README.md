@@ -3,7 +3,7 @@ This repository contains the material and content of the DevOps course at the en
 
 ## Year 2020-2021
 
-### Scheduling
+### Scheduling 
 
 Introduction to the course and DevOps: Nov. 23rd, 2020 (8h-10h)
 
